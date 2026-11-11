@@ -1,7 +1,7 @@
 # Laboratorio 5 — Andes Bike
 
 **Asignatura:** ICN292 — Sistemas de Información para la Gestión  
-**Estudiante:** Bruno Vega
+**Estudiante:** Bruno Alejandro Vega Veloso
 
 Base de datos de Andes Bike y diez consultas SQL desarrolladas en MySQL.
 
@@ -12,8 +12,3 @@ Base de datos de Andes Bike y diez consultas SQL desarrolladas en MySQL.
 - ICN292-Lab5-Vega-Bruno.sql: creación de las tablas, carga oficial y diez consultas.
 - ICN292-Lab5-Vega-Bruno.png: modelo entidad-relación.
 
-## Ejecución
-
-Abrir el archivo SQL en MySQL Workbench y ejecutarlo de principio a fin.
-
-El script elimina y vuelve a crear la base `andesbike`.
